@@ -17,8 +17,21 @@ A simple and intuitive web application to track your daily expenses, visualize s
 
 ## Installation
 
+### Backend Setup
+`
 ```bash
 git clone https://github.com/Rudrakumarpatel/Expense-Traker.git
-cd expense-tracker
+cd expense-tracker-backend
 npm install
 npm start
+
+cd ..
+cd expense-tracker-frontend
+npm install
+npm start
+
+
+
+
+ 
+
